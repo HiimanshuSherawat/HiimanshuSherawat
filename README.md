@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **skill building.**
 
-- 🌱 I’m currently learning **Natural Language processing and Drone Programming.**
+- 🌱 I’m currently learning **Natural Language processing and Recommender system.**
 
 - 👯 I’m looking to collaborate on **openCV, word2vec, Deep learning, etc.**
 
